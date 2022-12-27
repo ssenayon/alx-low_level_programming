@@ -2,9 +2,8 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Succes)
+ * Return: Always 0 (Success)
  */
-main(void)
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
