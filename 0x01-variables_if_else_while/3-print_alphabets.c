@@ -13,5 +13,5 @@ int main(void)
 	for (deed = 'A'; deed <= 'Z'; deed++)
 		putchar (deed);
 	putchar ('\n');
-	result (0);
+	return (0);
 }
